@@ -1,93 +1,98 @@
- 👋 Olá, eu sou Thiago Tigre Santiago
+#  👋 Olá, eu sou Thiago Tigre Santiago
 
-🎓 Estudante de Progrmação Full Stack na ESCOLA SENAI Cel. Auton Furtado,no Acre, estudo também no 3º ano do Ensino Médio em (2026)
-📍 Rio Branco - Acre, Brasil
+💻 **Estudante de Programação Full Stack** na **ESCOLA SENAI Cel. Auton Furtado**
+🎓 Estudante do **3º ano do Ensino Médio (2026)**
+📍 Rio Branco – Acre, Brasil
 
+# 🚀 Sobre mim
 
- 🚀 Sobre mim
+Sou estudante de **Programação Full Stack** e apaixonado por tecnologia, desenvolvimento web e criação de soluções digitais. Atualmente, estou construindo minha base como desenvolvedor por meio dos estudos no SENAI, desenvolvendo conhecimentos em front-end, back-end, banco de dados, lógica de programação e versionamento de código.
 
-Sou um estudante apaixonado por administração, gestão, finanças e desenvolvimento de negócios. Atualmente busco construir uma carreira sólida na iniciativa privada, adquirindo experiências em diferentes segmentos empresariais e ampliando meus conhecimentos em gestão organizacional.
+Além da formação técnica, possuo experiência profissional como **Jovem Aprendiz**, onde desenvolvi habilidades como organização, responsabilidade, trabalho em equipe e apoio às rotinas administrativas, competências que considero importantes tanto para o ambiente corporativo quanto para o desenvolvimento de software.
 
-Tenho experiência profissional como Jovem Aprendiz, atuando em ambientes corporativos e participando de atividades administrativas, organização de documentos, apoio às rotinas empresariais.
+Meu objetivo é evoluir continuamente como profissional, colocando em prática os conhecimentos adquiridos em projetos e desafios que contribuam para meu crescimento técnico e pessoal.
 
-Meu objetivo é crescer profissionalmente por meio do aprendizado contínuo, da melhoria de processos e da busca por resultados.
+# 💻 Áreas de Interesse
 
+* Desenvolvimento Web
+* Programação Full Stack
+* Front-end
+* Back-end
+* Banco de Dados
+* Desenvolvimento de Sistemas
+* Git e GitHub
+* Lógica de Programação
+* APIs
+* Tecnologia
+  
+# 📚 Formação
 
+### Ensino Médio
 
- 💼 Áreas de Interesse
+Conclusão prevista para **2026**.
 
-* Administração
-* Finanças
-* Processos Organizacionais
-* Construção Civil
+### SENAI Acre
 
+**Aprendizagem Industrial – Programador Full Stack**
 
+### SENAC Acre
 
- 📚 Formação
+**Aprendizagem em Comércio e Serviços**
 
-**Ensino Médio**
-Conclusão prevista: 2026
+# 💼 Experiência
 
-**SENAI Acre**
-Aprendizagem Industrial – Programador Full Stack
+### Jovem Aprendiz – Buriti Empreendimentos
 
-**SENAC Acre**
-Aprendizagem em Comércio e Serviços
+Experiência em atividades administrativas, organização documental, atendimento interno, apoio às rotinas administrativas e desenvolvimento de competências profissionais como organização, comunicação, responsabilidade e trabalho em equipe.
 
+# 🎯 Objetivos Profissionais
 
- 💼 Experiência
+Busco oportunidades que me permitam desenvolver minhas habilidades como programador e ampliar minha experiência na área de tecnologia.
 
-### Jovem Aprendiz (Buriti Empreendimentos)
+Tenho interesse em atuar com:
 
-Experiência em atividades administrativas, organização documental, atendimento interno, apoio aos setores administrativos e participação na rotina corporativa.
+* Desenvolvimento Front-end
+* Desenvolvimento Back-end
+* Desenvolvimento Full Stack
+* Desenvolvimento Web
+* Banco de Dados
+* Suporte ao Desenvolvimento de Sistemas
 
+Pretendo construir uma carreira baseada em aprendizado contínuo, dedicação, boas práticas de programação e desenvolvimento profissional.
 
-## 🎯 Objetivos Profissionais
+# 🌱 Atualmente Estudando
 
-Busco oportunidades nas áreas de:
-
-* Administração
-* Gestão
-* Financeiro
-* Planejamento
-* Mercado Imobiliário
-
-Pretendo construir uma carreira baseada em responsabilidade, aprendizado contínuo e desenvolvimento profissional.
-
-
-
-## 🌱 Atualmente estudando
-
-* Gestão Empresarial
-* Administração
-* Finanças
-* Mercado Imobiliário
-
-
----
-
-## 📈 Interesses
-
-* Investimentos
-* Economia
-* Finanças
-* Mercado Imobiliário
-* Gestão Estratégica
-* Desenvolvimento Organizacional
+* HTML5
+* CSS3
+* JavaScript
+* Banco de Dados
+* GitHub
+* Desenvolvimento Web
+* Programação Full Stack
+  
+# 📈 Interesses
 
 
-## 💡 Filosofia
+* Desenvolvimento Web
+* Tecnologia
+* Programação
+* Inteligência Artificial
+* Banco de Dados
+* Desenvolvimento Profissional
 
-> "Aprender continuamente, evoluir profissionalmente e contribuir para o crescimento das organizações por meio da gestão, e da melhoria contínua."
+# 💡 Filosofia
 
-## 📫 Contato
+> "A tecnologia transforma ideias em soluções. O aprendizado contínuo transforma estudantes em grandes profissionais."
+
+# 📫 Contato
 
 📍 Rio Branco – Acre, Brasil
 
-📧 E-mail: thiagotigresantiago@gmail.com
+📧 **E-mail:** [thiagotigresantiago@gmail.com](mailto:thiagotigresantiago@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/THIAGO TIGRE SANTIAGO
+💼 **LinkedIn:** linkedin.com/in/THIAGO TIGRE SANTIAGO
 
-💻 GitHub: github.com/ThiagoEstudando
+💻 **GitHub:** github.com/ThiagoEstudando
 
-Obrigado por visitar meu perfil!
+**Obrigado por visitar meu perfil! 🚀**
+
