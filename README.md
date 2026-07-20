@@ -19,7 +19,6 @@ Meu objetivo é crescer profissionalmente por meio do aprendizado contínuo, da 
 * Administração
 * Finanças
 * Processos Organizacionais
-* Planejamento
 * Mercado Imobiliário
 * Construção Civil
 
